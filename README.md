@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Solomon+Belay;I+Am+Passionate+About+Coding;I+Learn+By+Doing!&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1000">
 </p>
 
-## Hi I'm Solomon.👋
+# Hi I'm Solomon.👋
 
 ### I am a Software Engineering student  at `AASTU` And also  at ALX. `I learn by doing....`
 
