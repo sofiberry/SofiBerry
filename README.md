@@ -1,4 +1,4 @@
-<--
+<--!
 **sofiberry/SofiBerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
 # Contact 
-* [LinkedIn](https://www.linkedin.com/in/godswill-kalu-358750221/)
+* [Telegram](https://telegram.org/t.me/SB21_04)
 * [Twitter](https://twitter.com/sofi2berry)
 * [Email](mailto:sofi2darling@gmail.com)
 
@@ -38,6 +38,3 @@ Here are some ideas to get you started:
 * [Stack exchange](https://Stackexchange.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiberry&show_icons=true&theme=radical)
-
-
-![image](https://user-images.githubusercontent.com/105258746/188775779-6bbc07c8-df8d-4a80-839b-674ea51c5adc.png)
