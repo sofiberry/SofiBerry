@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   -->
 
 <p align="center">
-  <h3 align="center">⌨️ Readme Typing SVG</h3>
+  <h3 align="center">⌨️ SofiBerry</h3>
 </p>
 
 <p align="center">
