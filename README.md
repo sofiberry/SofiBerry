@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
-<!-- markdownlint-disable MD033 MD041 -->
+
 <p align="center">
   <h3 align="center">⌨️ Readme Typing SVG</h3>
 </p>
 
 <p align="center">
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Solomon+Belay;I+Am+Passionate+About+Coding;I+Learn+By+Doing!)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
+
 # Hi I'm Solomon.👋
 
 ### I am a Software Engineering student  at `AASTU` And also  at ALX. `I learn by doing....`
