@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h3 align="center">⌨️ SofiBerry</h3>
 </p>
 
-<p align="center">
+# <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Solomon+Belay;I+Am+Passionate+About+Coding;I+Learn+By+Doing!&font=Fira%20Code&center=true&width=420&height=50&duration=4000&pause=1000">
 </p>
 
