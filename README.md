@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
 # Contact 
-* [Telegram](https://telegram.org/t.me/SB21_04)
+* [Telegram](https://t.me/SB21_04)
 * [Twitter](https://twitter.com/sofi2berry)
 * [Email](mailto:sofi2darling@gmail.com)
 
