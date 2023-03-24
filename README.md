@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=⌨+SofiBerry!&font=Fira%20Code&center=true&width=420&height=30&duration=16000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=⌨+SofiBerry!&font=Fira%20Code&center=true&width=420&height=30&duration=6000&pause=10000">
 </p>
 
 <p align="center">
