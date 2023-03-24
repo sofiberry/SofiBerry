@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Hi I'm Solomon.👋
 
-### I am a Software Engineering student  at `AASTU` And also  at ALX. `I learn by doing....`
+### I am a Software Engineering student  at `AASTU` And also  at `ALX` Online learning platform. `I learn by doing....`
 
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
