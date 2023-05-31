@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 * [Reddit](https://reddit.com/)
 * [Stack exchange](https://Stackexchange.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiberry&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiberry&show_icons=true&theme=radical) -->
