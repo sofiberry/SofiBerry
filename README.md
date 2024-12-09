@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
 # Contact 
-* [Telegram](https://t.me/SB21_04)
-* [Twitter](https://twitter.com/sofi2berry)
+* [Telegram](https://t.me/Solo_mo_on)
+* [Twitter](https://twitter.com/_solomonbelay)
 * [Email](mailto:sofi2darling@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiberry&layout=compact)](https://github.com/sofiberry/github-readme-stats)
