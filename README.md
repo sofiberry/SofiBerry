@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ### 🌐 Check out my website:
 
-[![Personal Website](https://img.shields.io/badge/solomon-belay.vercel.app-Portfolio-orange)](https://solomon-belay.vercel.app/)
+[![Personal Website](https://img.shields.io/badge/Solomon%20Belay-Portfolio-orange)](https://solomon-belay.vercel.app/)
 
 ---
 
