@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abela12&label=Profile%20views&color=0e75b6&style=flat" alt="abela12" /> </p>
+
 # Contact 
 * [Telegram](https://t.me/Solo_mo_on)
 * [Twitter](https://twitter.com/_solomonbelay)
