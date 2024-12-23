@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=⌨+SofiBerry!&font=Fira%20Code&center=true&width=420&height=30&duration=4400&pause=10000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=⌨+SoloBDev!&font=Fira%20Code&center=true&width=420&height=30&duration=4400&pause=10000">
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiberry&layout=compact)](https://github.com/sofiberry/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solobdev&layout=compact)](https://github.com/sofiberry/github-readme-stats) -->
 
 <!--
 ## QUESTION AND ANSWER WEBSITE 
