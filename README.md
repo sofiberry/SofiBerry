@@ -26,15 +26,23 @@ Here are some ideas to get you started:
 
 ### I am a Software Engineering student  at `AASTU` And also  at `ALX` Online learning platform. `I learn by doing....`
 
-- #### 🔭 I’m currently working on my coding skills.
-- #### 👯 I’m open to collaborate on Software Engineering projects.
+[![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiberry&label=Profile%20views&color=0e75b6&style=flat" alt="abela12" /> </p>
+- 🔭 I’m currently working on my coding skills.
+- 🔭 I’m currently working on **MERN Stack** using **TypeScript**🔥.
+- 🌱 I’m always learning and exploring new technologies 🚀
+- 👯 I’m open to collaborate on Software Engineering projects.
+
+### 🚀 What I'm up to:
+
+- 🌐 Exploring the world of **MERN Stack development** and building scalable applications.
+
+- 📚 Learning and staying up-to-date with the ever-evolving tech landscape.
 
 # Contact 
 * [Telegram](https://t.me/Solo_mo_on)
 * [Twitter](https://twitter.com/_solomonbelay)
-* [Email](mailto:sofi2darling@gmail.com)
+* [Email](mailto:solomon.belayu@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiberry&layout=compact)](https://github.com/sofiberry/github-readme-stats)
 
@@ -47,4 +55,4 @@ Here are some ideas to get you started:
 * [Reddit](https://reddit.com/)
 * [Stack exchange](https://Stackexchange.com/)
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiberry&show_icons=true&theme=radical) -->
+<!-- ![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiberry&show_icons=true&theme=radical) -->
