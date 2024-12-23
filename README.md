@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### I am a Software Engineering student  at `AASTU` And also  at `ALX` Online learning platform. `I learn by doing....`
 
-[![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@34af7b01-c7bd-47a1-b409-c0cbf245d7cc)
+<!-- [![wakatime](https://wakatime.com/badge/user/34af7b01-c7bd-47a1-b409-c0cbf245d7cc.svg)](https://wakatime.com/@46aee6e0-0ac5-4e0f-8633-f5f0055bdd2b) -->
 
 - 🔭 I’m currently working on my coding skills.
 - 🔭 I’m currently working on **MERN Stack** using **TypeScript**🔥.
@@ -50,10 +50,9 @@ Here are some ideas to get you started:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiberry&layout=compact)](https://github.com/sofiberry/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiberry&layout=compact)](https://github.com/sofiberry/github-readme-stats) -->
 
----
-
+<!--
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
 * [GitHub](https://github.com/)
@@ -62,12 +61,11 @@ Here are some ideas to get you started:
 * [Quora](https://quora.com/)
 * [Reddit](https://reddit.com/)
 * [Stack exchange](https://Stackexchange.com/)
-
----
+  -->
 
 ### 🌐 Check out my website:
 
-[![Personal Website](https://img.shields.io/badge/abel.pages.dev-Portfolio-orange)](https://abel.pages.dev/)
+[![Personal Website](https://img.shields.io/badge/solomon-belay.vercel.app-Portfolio-orange)](https://solomon-belay.vercel.app/)
 
 ---
 
