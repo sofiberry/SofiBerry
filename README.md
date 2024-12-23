@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 ---
 
 # Contact 
-* [Telegram](https://t.me/Solo_mo_on)
-* [Twitter](https://twitter.com/_solomonbelay)
-* [Email](mailto:solomon.belayu@gmail.com)
+* [Telegram](https://t.me/Solo_mo_on) [@Solo_mo_on]
+* [Twitter](https://twitter.com/_solomonbelay) [@_solomonbelay]
+* [Email](mailto:solomon.belayu@gmail.com) [solomon.belayu@gmail.com
 
 ---
 
