@@ -33,18 +33,26 @@ Here are some ideas to get you started:
 - 🌱 I’m always learning and exploring new technologies 🚀
 - 👯 I’m open to collaborate on Software Engineering projects.
 
+---
+
 ### 🚀 What I'm up to:
 
 - 🌐 Exploring the world of **MERN Stack development** and building scalable applications.
 
 - 📚 Learning and staying up-to-date with the ever-evolving tech landscape.
 
+---
+
 # Contact 
 * [Telegram](https://t.me/Solo_mo_on)
 * [Twitter](https://twitter.com/_solomonbelay)
 * [Email](mailto:solomon.belayu@gmail.com)
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiberry&layout=compact)](https://github.com/sofiberry/github-readme-stats)
+
+---
 
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
@@ -55,4 +63,13 @@ Here are some ideas to get you started:
 * [Reddit](https://reddit.com/)
 * [Stack exchange](https://Stackexchange.com/)
 
+---
+
+### 🌐 Check out my website:
+
+[![Personal Website](https://img.shields.io/badge/abel.pages.dev-Portfolio-orange)](https://abel.pages.dev/)
+
+---
+
+Feel free to fork, star, or reach out if you have any questions or just want to connect! 😊
 <!-- ![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiberry&show_icons=true&theme=radical) -->
